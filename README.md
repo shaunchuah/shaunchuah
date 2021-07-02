@@ -6,7 +6,11 @@
 
 # Projects
 
-## SampleTrek
+## MUSIC Study
+
+Current research looking at the role of mitochondrial damage-associated molecular patterns in patients with inflammatory bowel disease. Check it out here: https://www.musicstudy.uk
+
+## SampleTrek Web Application
 
 Flexible sample tracking for researchers - available here: https://sampletrek.com/
 
