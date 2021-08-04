@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @shaunchuah, clinical research fellow in gastroenterology.
 - 👀 I’m interested in inflammatory bowel diseases, bioinformatics and building web applications.
 - 📫 How to reach me: cchuah@ed.ac.uk
+- Blog available here: https://shaunchuah.github.io/
 
 # Projects
 
