@@ -15,3 +15,9 @@ Current research looking at the role of mitochondrial damage-associated molecula
 Flexible sample tracking for researchers - available here: https://sampletrek.com/
 
 Bring your own barcode labels and this will provide the backend to allow multi-user, multi-site collaboration.
+
+## Nextflow Bioinformatics Pipeline for cfDNA Analyses
+
+Bioinformatics pipeline for local development/Azure cloud execution here: https://github.com/shaunchuah/cfdna_nextflow/
+
+Runs fastqc, bowtie2, samtools, metaphlan.
