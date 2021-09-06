@@ -30,11 +30,15 @@ Runs fastqc, bowtie2, samtools, metaphlan.
 ### SeqKit 2.0.0
 
 [Original Source](https://github.com/shenwei356/seqkit)
+
 [Docker Image](https://hub.docker.com/r/shaunchuah/seqkit)
+
 [Docker Build Source](https://github.com/shaunchuah/seqkit_docker)
 
 ### CpGIScan (as of 6 Sep 2021)
 
 [Original Source](https://github.com/jianzuoyi/CpGIScan)
+
 [Docker Image](https://hub.docker.com/r/shaunchuah/cpgiscan)
+
 [Docker Build Source](https://github.com/shaunchuah/cpgiscan_docker)
