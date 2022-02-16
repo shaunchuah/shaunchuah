@@ -48,15 +48,17 @@ Current research looking at the role of mitochondrial damage-associated molecula
 
 ---
 
-### SampleTrek Web Application
+### MARVEL Study
+
+Phase 2b double-blind randomised controlled trial of oral mitochondrial antioxidants in moderate ulcerative colitis. Check it out here: https://www.marvelstudy.uk
+
+---
+
+### G-Trac
+
+Sample management system for MUSIC and MARVEL studies.
 
 Open Source Repo here: https://github.com/shaunchuah/musicsamples 
-
-Flexible sample tracking for researchers - SAAS available here: https://sampletrek.com/ Documentation: https://docs.sampletrek.com/
-
-Bring your own barcode labels and this will provide the backend to allow multi-user, multi-site collaboration.
-
-Potentially could be developed into a fully integrated customised lab workflow by integrating barcode printers with a raspberry pi/webapi.
 
 ---
 
