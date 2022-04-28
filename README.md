@@ -31,7 +31,7 @@ Open Source Repo here: https://github.com/shaunchuah/musicsamples
 
 ### Nextflow Bioinformatics Pipeline for cfDNA Analyses
 
-Bioinformatics pipeline for local development/Azure cloud execution here: https://github.com/shaunchuah/cfdna_nextflow/
+Bioinformatics pipeline for cfDNA analysis using Azure Batch here: https://github.com/shaunchuah/cfdna_nextflow/
 
 Tutorial on how to set up your own Azure cloud supercomputer: [Link here](https://shaunchuah.github.io/posts/setting-up-azure-with-nextflow)
 
@@ -39,12 +39,8 @@ Tutorial on how to set up your own Azure cloud supercomputer: [Link here](https:
 
 ### Dockerized Bioinformatic Tools
 
-| Tool                        | Original Repo                                             | Docker Image                                                                    | Docker Build Source                                                                                                            |
-|-----------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| SeqKit 2.0.0                | [Original Repo](https://github.com/shenwei356/seqkit)     | [Docker Image](https://hub.docker.com/r/shaunchuah/seqkit)                      | [Build Source](https://github.com/shaunchuah/seqkit_docker)                                                             |
-| CpGIScan (as of 6 Sep 2021) | [Original Repo](https://github.com/jianzuoyi/CpGIScan)    | [Docker Image](https://hub.docker.com/r/shaunchuah/cpgiscan)                    | [Build Source](https://github.com/shaunchuah/cpgiscan_docker)                                                           |
-| Kraken-Biom v1.0.1          | [Original Repo](https://github.com/smdabdoub/kraken-biom) | [Docker Image](https://hub.docker.com/repository/docker/shaunchuah/kraken_biom) | [Build Source](https://github.com/1-gut/kraken-biom) |
-
+Docker builds repo: https://github.com/shaunchuah/docker_builds/
+Docker hub: https://hub.docker.com/u/shaunchuah
 
 ## Technologies
 
@@ -70,8 +66,8 @@ Tutorial on how to set up your own Azure cloud supercomputer: [Link here](https:
 
 ### Bioinformatics
 
-- Pipeline orchestration (Nextflow, Snakemake)
-- QC Tools (FastQC, MultiQC)
+- Pipeline orchestration with Nextflow/Azure
+- QC Tools (FastQC, FastP, MultiQC)
 - Alignment Tools (bowtie2, minimap2)
 - Metagenomics (kraken2, metaphlan)
 
