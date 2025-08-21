@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the Univ
 
 - **Current Role**: Clinical Senior Research Fellow, University of Glasgow (2024–Present)
 - **Specialization**: Gastroenterology, with a focus on Inflammatory Bowel Disease (IBD)
+- **Latest Project**: [www.chatibd.com](www.chatibd.com)
 - **Blog**: [shaunchuah.github.io](https://shaunchuah.github.io)
 - **Research Group**: [Gut Translational Research Group](https://www.gla.ac.uk/schools/infectionimmunity/staff/gwotzerho/theguttranslationalresearchgroup/)
 
@@ -14,6 +15,7 @@ Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the Univ
 - Developing in vitro platforms to study inflammatory diseases
 - Applying machine learning and multi-omics for IBD insights
 - Exploring bioenergetic dysfunction and immune-metabolic interactions
+- Translating advances in LLM technology for IBD
 
 ## 📚 Selected Publications
 
@@ -39,6 +41,7 @@ For a full list, visit my [ORCID profile](https://orcid.org/0000-0002-5936-3370)
 - **Languages**: Python, R
 - **Machine Learning**: TensorFlow, PyTorch, SciKit-Learn
 - **Bioinformatics**: seurat, bowtie2, kraken2/bracken, metaphlan
+- **AI**: vercel/ai-sdk, OpenAI SDK
 
 ### Web Development
 
@@ -48,7 +51,7 @@ For a full list, visit my [ORCID profile](https://orcid.org/0000-0002-5936-3370)
 
 ### Cloud & Infrastructure
 
-- **Platforms**: Azure, AWS
+- **Platforms**: Azure, AWS, Vercel
 - **Containerization**: Docker
 - **Data Engineering**: Dagster, NextFlow, Azure Batch
 - **CI/CD**: GitHub Actions
@@ -65,6 +68,6 @@ Explore our research group code at [github.com/1-gut](https://github.com/1-gut) 
 
 - **Email**: [shaun.chuah@glasgow.ac.uk](mailto:shaun.chuah@glasgow.ac.uk)
 - **LinkedIn**: [linkedin.com/in/shaunchuah](https://linkedin.com/in/shaunchuah)
-- **X**: [x.com/chershiong](https://x.com/chershiong)
+- **X**: [x.com/drshaunchuah](https://x.com/drshaunchuah)
 
 Thanks for visiting! Feel free to explore my repositories and reach out for collaboration.
