@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the Univ
 
 - **Current Role**: Clinical Senior Research Fellow, University of Glasgow (2024–Present)
 - **Specialization**: Gastroenterology, with a focus on Inflammatory Bowel Disease (IBD)
-- **Latest Project**: [www.chatibd.com](www.chatibd.com)
+- **Latest Project**: [www.chatibd.com](https://www.chatibd.com)
 - **Blog**: [shaunchuah.github.io](https://shaunchuah.github.io)
 - **Research Group**: [Gut Translational Research Group](https://www.gla.ac.uk/schools/infectionimmunity/staff/gwotzerho/theguttranslationalresearchgroup/)
 
