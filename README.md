@@ -1,21 +1,24 @@
 # Hi, I'm Dr. Shaun Chuah 👋
 
-Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the University of Glasgow and an Honorary Consultant Gastroenterologist. My work focuses on leveraging cutting-edge technologies in software and biology to advance IBD discovery science.
+Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the University of Glasgow and an Honorary Consultant Gastroenterologist. My work focuses on applying machine learning and generative AI technologies in Inflammatory Bowel Disease (IBD).
+
+## 🌟 Highlights
+
+- [Machine learning to dissect the heterogeneity of IBD-associated fatigue](https://github.com/1-gut/machine_learning_for_ibd_fatigue/tree/main)
+- [ChatIBD - AI companion for IBD clinicians](https://www.chatibd.com)
 
 ## 👨‍⚕️ About Me
 
 - **Current Role**: Clinical Senior Research Fellow, University of Glasgow (2024–Present)
 - **Specialization**: Gastroenterology, with a focus on Inflammatory Bowel Disease (IBD)
-- **Latest Project**: [www.chatibd.com](https://www.chatibd.com)
 - **Blog**: [shaunchuah.github.io](https://shaunchuah.github.io)
 - **Research Group**: [Gut Translational Research Group](https://www.gla.ac.uk/schools/infectionimmunity/staff/gwotzerho/theguttranslationalresearchgroup/)
 
 ## 🧪 Research Interests
 
-- Developing in vitro platforms to study inflammatory diseases
-- Applying machine learning and multi-omics for IBD insights
-- Exploring bioenergetic dysfunction and immune-metabolic interactions
-- Translating advances in LLM technology for IBD
+- Developing scalable data platforms for translational research
+- Applying machine learning to decode IBD immunology
+- Translating advances in generative AI for IBD
 
 ## 📚 Selected Publications
 
