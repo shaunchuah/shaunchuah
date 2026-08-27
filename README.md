@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a Clinical Senior Research Fellow at the Univ
 ## 🌟 Highlights
 
 - [Foundry120](https://www.foundry120.com/)
-- [Machine learning to dissect the heterogeneity of IBD-associated fatigue](https://github.com/1-gut/machine_learning_for_ibd_fatigue/tree/main)
+- [Machine learning to dissect the heterogeneity of IBD-associated fatigue](https://bmjdigitalhealth.bmj.com/content/2/1/e000037)
 - [ChatIBD - AI companion for IBD clinicians](https://www.chatibd.com)
 
 ## 👨‍⚕️ About Me
