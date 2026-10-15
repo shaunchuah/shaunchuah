@@ -13,7 +13,7 @@ Clinical Senior Research Fellow at the University of Glasgow and Honorary Consul
 - **Current roles**: Clinical Senior Research Fellow, University of Glasgow; Honorary Consultant Gastroenterologist, NHS Greater Glasgow and Clyde (2024 to present)
 - **Clinical focus**: Inflammatory bowel disease
 - **Research group**: [Gut Translational Research Group](https://www.gla.ac.uk/schools/infectionimmunity/staff/gwotzerho/theguttranslationalresearchgroup/)
-- **Website**: [shaunchuah.github.io](https://shaunchuah.github.io)
+- **Website**: [shaunchuah.com](https://shaunchuah.com)
 
 ## Research interests
 
